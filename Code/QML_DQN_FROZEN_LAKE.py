@@ -513,7 +513,7 @@ def deep_Q_Learning(alpha, gamma, epsilon, episodes, max_steps, n_tests, render 
 
 				# print("UPDATING PARAMS COMPLETED")
 				current_replay_memory = memory.output_all()
-				current_target_for_replay_memory = [item.reward + (1 - int(item.done)) * gamma * torch.max(variational_classifier(var_Q_circuit = var_target_Q_circuit, var_Q_bias = var_target_Q_bias, angles=decimalToBinaryFixLength(9,item.next_state))) for item in current_replay_memory]
+				current_target_for_replay_memory = [item.reward + (1 - int(item.done)) * gamma * torch.max(variational_classifier(var_Q_circuit = var_target_Q_circuit, var_Q_bias = var_target_Q_bias, angles=decimalToBinaryFixLength(4,item.next_state))) for item in current_replay_memory]
 				# current_target_for_replay_memory = [item.reward + (1 - int(item.done)) * gamma * np.max(variational_classifier(var_target_Q, angles=decimalToBinaryFixLength(9,item.next_state))) for item in current_replay_memory]
 
 				# if t%5 == 0:
