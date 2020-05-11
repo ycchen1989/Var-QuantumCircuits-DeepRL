@@ -232,7 +232,7 @@ def circuit(weights, angles=None):
 	for W in weights:
 		layer(W)
 
-	return [qml.expval.PauliZ(ind) for ind in range(4)]
+	return [qml.expval(qml.PauliZ(ind)) for ind in range(4)]
 
 
 def variational_classifier(var_Q_circuit, var_Q_bias , angles=None):
