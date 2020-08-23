@@ -22,7 +22,7 @@ numpy
 ```
 
 ## References 
-If you find this work helps your research or use the code, please consider to cite our official reference. 
+If you find this work helps your research or use the code, please consider to cite our official reference. Thank you.
 
 ```
 @article{chen2020variational,
