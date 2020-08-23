@@ -83,7 +83,12 @@ def save_all_the_current_info(exp_name, file_title, iter_count, var_Q_circuit, v
 		full_plotting(file_title, iter_count + 1, iter_reward)
 
 
-## Ploting Function ##
+''' 
+## Plotting Function 
+Note: the plotting code is origin from Yang, Chao-Han Huck, et al. "Enhanced Adversarial Strategically-Timed Attacks Against Deep Reinforcement Learning." 
+## ICASSP 2020-2020 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP). IEEE, 2020.
+If you use the code in your research, please cite the original reference. 
+'''
 
 def full_plotting(_fileTitle, _trainingLength, _currentRewardList):
 	scores = []                        # list containing scores from each episode
