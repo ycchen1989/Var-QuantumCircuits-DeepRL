@@ -80,7 +80,12 @@ class ReplayMemory(object):
 ####
 
 
-## Ploting Function ##
+## Plotting Function ##
+"""
+Note: the plotting code is origin from Yang, Chao-Han Huck, et al. "Enhanced Adversarial Strategically-Timed Attacks Against Deep Reinforcement Learning." 
+## ICASSP 2020-2020 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP). IEEE, 2020.
+If you use the code in your research, please cite the original reference. 
+"""
 
 def plotTrainingResultCombined(_iter_index, _iter_reward, _iter_total_steps, _fileTitle):
 	fig, ax = plt.subplots()
