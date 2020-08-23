@@ -4,7 +4,7 @@ This is the numerical code for the article: \
 [Variational Quantum Circuits for Deep Reinforcement Learning](https://arxiv.org/abs/1907.00397)
 
 
-- This work awarded Xanadu AI software competition research track 1st rank. [News](https://medium.com/xanaduai/xanadu-software-competition-the-results-are-in-9ccb6a3b591b?source=collection_home---6------5-----------------------)
+- This work awarded Xanadu AI software competition research track 1st prize. [News](https://medium.com/xanaduai/xanadu-software-competition-the-results-are-in-9ccb6a3b591b?source=collection_home---6------5-----------------------)
 
 We also sincerely thank the supports from Xanadu AI to provide PennyLane, which is a great value to the quantum AI community. 
 
