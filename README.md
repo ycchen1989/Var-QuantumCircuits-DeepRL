@@ -10,10 +10,16 @@ We also sincerely thank the supports from Xanadu AI to provide PennyLane, which 
 
 ## Requirements
 
+with pip/conda install
+
+```
 pennylane
 pytorch
 matplotlib
 qiskit
+gym
+numpy
+```
 
 ## References 
 If you find this work helps your research or use the code, please consider to cite our official reference. 
