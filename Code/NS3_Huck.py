@@ -1,3 +1,8 @@
+"""
+Refer to ns3-gym for ns3 simulation.
+Gawłowicz, Piotr, and Anatolij Zubow. "Ns-3 meets openai gym: The playground for machine learning in networking research." 
+Proceedings of the 22nd International ACM Conference on Modeling, Analysis and Simulation of Wireless and Mobile Systems. 2019.
+"""
 import numpy as np
 
 class Radio():
