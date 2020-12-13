@@ -22,7 +22,7 @@ numpy
 ```
 ## Run Code
 
-- OpenAI Frozen Lake (please also refer to [parameters](https://github.com/ycchen1989/Var-QuantumCircuits-DeepRL/blob/master/Code/ShortestPathFrozenLake.py#L4) )
+- OpenAI Frozen Lake (please also refer to the [parameters](https://github.com/ycchen1989/Var-QuantumCircuits-DeepRL/blob/master/Code/ShortestPathFrozenLake.py#L4) )
 
 ```bash
 python Code/QML_DQN_FROZEN_LAKE.py
