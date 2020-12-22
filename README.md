@@ -1,7 +1,7 @@
 # Variational-Quantum-Circuits-DeepReinforcementLearning
 
 This is the numerical code for the article: \
-[Variational Quantum Circuits for Deep Reinforcement Learning](https://arxiv.org/abs/1907.00397)
+[Variational Quantum Circuits for Deep Reinforcement Learning](https://arxiv.org/abs/1907.00397) (first released in Aug. 2019)
 
 
 - This work awarded the Xanadu AI software competition 2019 research track first prize. [News](https://medium.com/xanaduai/xanadu-software-competition-the-results-are-in-9ccb6a3b591b?source=collection_home---6------5-----------------------)
