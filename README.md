@@ -1,5 +1,10 @@
 # Variational-Quantum-Circuits-DeepReinforcementLearning
 
+
+**NEWS** We start a non-commericial interview series: a first talk with Sam and his experience working VQC-DRL since 2018. 
+
+Feel free to check the video, if you are interested in the stories behind. [Part 1](https://www.youtube.com/watch?v=hpnw8x3ob5E) and [Part 2](https://www.youtube.com/watch?v=JGIWxpA_X1w&). 
+
 This is the numerical code for the article: \
 [Variational Quantum Circuits for Deep Reinforcement Learning](https://arxiv.org/abs/1907.00397) (first released in Aug. 2019)
 
